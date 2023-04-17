@@ -1,0 +1,25 @@
+.tabdiv{
+    display: none;
+}
+.mobilediv{
+    display: none;
+}
+
+@media screen and (max-width:992px) {
+    .pcdiv{
+        display: none;
+    }
+    .tabdiv{
+        display:block;
+    }
+    
+}
+@media screen and (max-width:512px) {
+    .mobilediv{
+        display: block;
+    }
+    .tabdiv{
+        display:none;
+    }
+    
+}

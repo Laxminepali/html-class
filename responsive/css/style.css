@@ -1,0 +1,14 @@
+.program{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px
+    ;
+}
+.program h3{
+    text-align: center;
+}
+.div1 img{
+    width: 200px;
+    
+
+}

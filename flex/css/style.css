@@ -1,0 +1,15 @@
+.body{
+    background-color: rgb(245, 238, 238);
+}
+ #flex-container {
+  display: flex;
+  flex-direction: row;
+ }
+
+#flex-container > .flex-item {
+  flex: auto;
+}
+
+#flex-container > .raw-item {
+  width: 5rem;
+}

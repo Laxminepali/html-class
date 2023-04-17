@@ -1,0 +1,12 @@
+.mydiv
+{
+    background-color:rgb(184,188,191);
+    color: blue;
+    padding: 20px;
+}
+.myheading{
+    color:red;
+}
+.description{
+    text-align: justify;
+}
